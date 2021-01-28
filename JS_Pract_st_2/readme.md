@@ -15,6 +15,7 @@ P.S. Здесь есть несколько вариантов решения з
 ```javascript
 document.addEventListener('DOMContentLoaded', () => {
     code;
- }; ```
+ };
+ ```
 
-[Video](https://share.vidyard.com/watch/xFeuBF1EnC5XecFGHyTHir?vyetoken=$token_placeholder&autoplay=1)
+> [Video](https://share.vidyard.com/watch/xFeuBF1EnC5XecFGHyTHir?vyetoken=$token_placeholder&autoplay=1)
