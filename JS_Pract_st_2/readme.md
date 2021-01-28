@@ -17,5 +17,5 @@ document.addEventListener('DOMContentLoaded', () => {
     code;
  };
  ```
-
+> ![](https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_2/src/img/copy_mars.png)
 > [demo-video](https://share.vidyard.com/watch/xFeuBF1EnC5XecFGHyTHir?vyetoken=$token_placeholder&autoplay=1)
