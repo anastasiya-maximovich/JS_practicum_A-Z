@@ -16,3 +16,5 @@ P.S. Здесь есть несколько вариантов решения з
 document.addEventListener('DOMContentLoaded', () => {
     code;
  }; ```
+
+[Video](https://share.vidyard.com/watch/xFeuBF1EnC5XecFGHyTHir?vyetoken=$token_placeholder&autoplay=1)
