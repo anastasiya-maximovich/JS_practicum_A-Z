@@ -23,6 +23,6 @@ const movieDB = {
 };
 ```
 ##Before 
-<img src='https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_1/src/img/before.png' width=50%>
+![]<img src='https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_1/src/img/before.png' width=50%>
 ##After 
-<img src='https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_1/src/img/after.png' width=50% >
+![]<img src='https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_1/src/img/after.png' width=50% >
