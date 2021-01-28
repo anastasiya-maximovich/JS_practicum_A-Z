@@ -18,4 +18,5 @@ document.addEventListener('DOMContentLoaded', () => {
  };
  ```
 
-> [C:\Users\Лисичка\Desktop\copy_mars.png](https://share.vidyard.com/watch/xFeuBF1EnC5XecFGHyTHir?vyetoken=$token_placeholder&autoplay=1)
+> [mini_project](C:\Users\Лисичка\Desktop\copy_mars.png)
+> [demo-video](https://share.vidyard.com/watch/xFeuBF1EnC5XecFGHyTHir?vyetoken=$token_placeholder&autoplay=1)
