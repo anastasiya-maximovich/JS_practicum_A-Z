@@ -22,4 +22,5 @@ const movieDB = {
     ]
 };
 ```
-
+> Before ![](https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_1/src/img/before.png =30%)
+> After ![](https://github.com/anastasiya-maximovich/JS_practicum_A-Z/blob/master/JS_Pract_st_1/src/img/after.png =30%)
