@@ -6,3 +6,5 @@
 4. Step_4 : functions, objects, forEach
 >5. JS_Pract_st_1: DOM
 >6. JS_Pract_st_2: .addEventsListener
+
+7.Start Food-project: create tabs
