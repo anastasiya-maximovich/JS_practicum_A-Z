@@ -10,7 +10,7 @@ function myAmime (){
    const id = setInterval(move, 10);
    function move(){
        if(pos === 300){
-           clearInterval();
+           clearInterval(id);
        }else{
            pos++;
            box.style.top = pos + 'px';
