@@ -8,4 +8,4 @@
 >6. JS_Pract_st_2: .addEventsListener
 
 7.Start Food-project: create tabs
-8. simpleAnimation - setInterval, clearInterval
+8.simpleAnimation - setInterval, clearInterval
